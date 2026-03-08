@@ -30,15 +30,6 @@ Aggregated IP geolocation lookup.
 Used for:
 - Compare results from multiple geolocation databases.
 
-## WhoisFreaks *
-
-Purpose:
-WHOIS and IP data API.
-
-Used for:
-- IP ownership
-- domain and network data.
-
 ## ipapi
 
 Purpose:
