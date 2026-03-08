@@ -1,6 +1,6 @@
-# OSINT Tools
+# OSINT Tools 
 
-## RIPEstat
+## RIPEstat *
 
 Purpose:
 Network intelligence and IP information.
@@ -20,7 +20,7 @@ Used for:
 - IP prefixes
 - Network peers
 
-## bgp.he.net
+## bgp.he.net *
 
 Purpose:
 Detailed BGP and ASN information.
