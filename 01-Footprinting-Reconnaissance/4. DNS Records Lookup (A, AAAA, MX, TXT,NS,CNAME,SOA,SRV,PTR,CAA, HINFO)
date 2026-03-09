@@ -1,0 +1,4 @@
+1. https://easydmarc.com/tools/all-record-lookup
+2. https://www.liquidweb.com/tools/dns-checker
+3. dig (CLI Tool)
+4. amass enum -active -d creativeitinstitute.com
